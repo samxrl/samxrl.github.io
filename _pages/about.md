@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student at Southeast University, supervised by Professor [Bixin Li](https://scholar.google.com/citations?hl=zh-CN&user=nxQBSlgAAAAJ). I received my Master's degree from Beijing Information Science and Technology University, under the supervision of Professor [Zhanqi Cui](https://zqcui.github.io/).
 
-My research interests include SE4AI, trustworthy AI, and LLM Safety. If you are interested in my research, please feel free to contact me. 🙌
+My research interests include SE4AI, trustworthy AI, and LLM safety. If you are interested in my research, please feel free to contact me. 🙌
 
 
 # 🔥 News
