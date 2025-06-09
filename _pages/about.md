@@ -38,8 +38,11 @@ I am a Ph.D. student at Southeast University, supervised by Professor Bixin Li. 
 </div>
 
 
-- [IATD:Interpretability Analysis based Differential Testing for
- DeepNeuralNetworks](https://www.jos.org.cn/jos/article/abstract/7088), **Ruilin Xie**, Zhanqi Cui, Xiang Chen, Li Li .
+- `JOS (软件学报)` [IATD:Interpretability Analysis based Differential Testing for
+ DeepNeuralNetworks](https://www.jos.org.cn/jos/article/abstract/7088), **Ruilin Xie**, Zhanqi Cui, Xiang Chen, Li Li . `in Chinese`
+- `JOS (软件学报)` [IATG: Interpretation-analysis-based Testing Method for Autonomous Driving Software](https://www.jos.org.cn/jos/article/abstract/6836), **Ruilin Xie**, Zhanqi Cui*, Xiang Chen, LiweiZheng . `in Chinese`
+- `JOS (软件学报)` [DeepRanger: Coverage-guided Deep Forest Testing Approach](https://www.jos.org.cn/jos/article/abstract/6422), ZhanqiCui, **RuilinXie**, XiangChen, XiuleiLiu, LiweiZheng . `Supervisor 1st Author, in Chinese`
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
