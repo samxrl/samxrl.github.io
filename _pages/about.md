@@ -56,5 +56,6 @@ I am a Ph.D. student at Southeast University, supervised by Professor Bixin Li. 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2025.02*, [Lorem](https://github.com/), China.
+[//]: # (# 💻 Internships)
+
+[//]: # (- *2019.05 - 2025.02*, [Lorem]&#40;https://github.com/&#41;, China.)
