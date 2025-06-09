@@ -26,20 +26,20 @@ I am a Ph.D. student at Southeast University, supervised by Professor Bixin Li. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOSEM</div><img src='images/IATT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOSEM</div><img src='../images/IATT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IATT: Interpretation Analysis-based Transferable Test Generation for Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3705301)
 
 **Ruilin Xie**, Xiang Chen, Qifan He, Bixin Li, Zhanqi Cui
 
-[**Code**](https://github.com/samxrl/IATT) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+🖥️[**Code**](https://github.com/samxrl/IATT)
 </div>
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [IATD:Interpretability Analysis based Differential Testing for
+ DeepNeuralNetworks](https://www.jos.org.cn/jos/article/abstract/7088), **Ruilin Xie**, Zhanqi Cui, Xiang Chen, Li Li .
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
