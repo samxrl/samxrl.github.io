@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruilin Xie (谢瑞麟) - Homepage"
+title                    : "Ruilin Xie (谢瑞麟) "
 description              : "SE4AI, Trustworthy AI, LLM Safety"
 repository               : "samxrl/samxrl.github.io"
 google_scholar_stats_use_cdn : true
