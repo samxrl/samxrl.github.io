@@ -28,7 +28,7 @@ My research interests include SE4AI, trustworthy AI, and LLM safety. If you are 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">TOSEM</div><img src='../images/IATT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badgeImg">TOSEM (CCF-A)</div><img src='../images/IATT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IATT: Interpretation Analysis-based Transferable Test Generation for Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3705301)
