@@ -23,6 +23,7 @@ My research interests include SE4AI, trustworthy AI, and LLM safety. If you are 
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 I was awarded funding from the CSC to support my visiting Ph.D. study at Monash University.
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by TOSEM. 
 
 
